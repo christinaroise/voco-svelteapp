@@ -2,8 +2,7 @@
 	import OnlineStore from './components/OnlineStore/OnlineStore.svelte'
 	import Admin from './Admin.svelte';
 
-	let adminPNG = 'img/001-user.png'
-	let cartPNG = 'img/002-shopping-cart.png'
+	let adminPNG = './img/001-user.png'
 
 	let store = true
 
